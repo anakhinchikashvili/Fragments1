@@ -31,4 +31,9 @@
             android:defaultValue="jemali"/>
 
     </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.fragments1.fragments.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>
